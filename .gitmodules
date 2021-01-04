@@ -1,0 +1,3 @@
+[submodule "Easy-Licensing"]
+	path = Easy-Licensing
+	url = git@github.com:thirstyape/Easy-Licensing.git
